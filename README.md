@@ -44,5 +44,11 @@ Implementation of Kmeans algorithme on brain MRI, in a parallel manner with MapR
  
 
 
+<br/>
+
+<img src="./animated.gif" width="260" />
+
+🤔
+
 > .
 
