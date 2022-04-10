@@ -19,6 +19,8 @@ Implementation of Kmeans algorithme on brain MRI, in a parallel manner with MapR
 
 <br/>
 
+### demo 2
+
 > input : 
 
 <img src="./HDFS_Root_Files/input3/brain.jpeg" width="200" />
