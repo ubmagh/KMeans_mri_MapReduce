@@ -8,7 +8,7 @@ Implementation of Kmeans algorithme on brain MRI, in a parallel manner with MapR
 
 ### demo 1
 
-> input :  3 random centers & a small Gif image
+> input :  3 random centers & a small Gif MRI image
 
 <img src="./HDFS_Root_Files/input3/brain_mri.gif" width="200" />
 
@@ -21,7 +21,7 @@ Implementation of Kmeans algorithme on brain MRI, in a parallel manner with MapR
 
 ### demo 2
 
-> input : 3 random centers & a large JPEG image
+> input : 3 random centers & a large JPEG MRI image
 
 <img src="./HDFS_Root_Files/input3/brain.jpeg" width="200" />
 
@@ -34,7 +34,7 @@ Implementation of Kmeans algorithme on brain MRI, in a parallel manner with MapR
 
 ### demo 3
 
-> input : 8 centers & large JPEG image
+> input : 8 centers & large JPEG MRI image
 
 <img src="./HDFS_Root_Files/input4/brain.jpeg" width="200" />
 
